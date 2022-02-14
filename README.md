@@ -1,5 +1,5 @@
 # Interpolation-Search
-This is an implementation of the Interpolation Search algorithm for words in a list.
+This is my implementation of the Interpolation Search algorithm for words in a list.
 
 ## Motivation :ski:
 ---
